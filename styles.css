@@ -67,3 +67,14 @@ p{
 section h1,h2{
     font-weight: 500;
 }
+footer{
+    width: 100%;
+    padding: 10px 15%;
+}
+footer div{
+    display: flex;
+    justify-content: right;
+}
+.fa{
+    margin: 10px;
+}
